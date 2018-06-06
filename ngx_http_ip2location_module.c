@@ -6,7 +6,7 @@
 #include <ngx_http.h>
 #include <float.h>
 
-#include "IP2Location.h"
+#include "/root/IP2Location-C-Library-master/libIP2Location/IP2Location.h"
 
 #define FLOAT_STRING_MAX_LEN (DBL_MAX_10_EXP + 2)
 
